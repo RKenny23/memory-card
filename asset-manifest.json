@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.212c9163.css",
+    "main.js": "/memory-card/static/js/main.661c406c.js",
+    "static/media/Icon-Mercy.webp": "/memory-card/static/media/Icon-Mercy.c518520c7fd633a90978.webp",
+    "static/media/Icon-Pharah.webp": "/memory-card/static/media/Icon-Pharah.cb7949465d19399aa2bf.webp",
+    "static/media/Icon-Junkrat.webp": "/memory-card/static/media/Icon-Junkrat.4a78e60bf34d262ffa3b.webp",
+    "static/media/Icon-Orisa.webp": "/memory-card/static/media/Icon-Orisa.9434b09b2c1bab1ec377.webp",
+    "static/media/Icon-Cassidy.webp": "/memory-card/static/media/Icon-Cassidy.c3bfc0d7e8792cd308f4.webp",
+    "static/media/Icon-Lucio.webp": "/memory-card/static/media/Icon-Lucio.6eed4a4be05e15a92bd6.webp",
+    "static/media/Icon-Mei.webp": "/memory-card/static/media/Icon-Mei.fb7df91d1ad2a6691eb6.webp",
+    "static/media/Icon-Hanzo.webp": "/memory-card/static/media/Icon-Hanzo.6ece81d8a344aae9f305.webp",
+    "static/media/Icon-Roadhog.webp": "/memory-card/static/media/Icon-Roadhog.870f6cf2293ebcfaafb7.webp",
+    "static/media/Icon-Reinhardt.webp": "/memory-card/static/media/Icon-Reinhardt.5659cb975e7d43a7a94d.webp",
+    "static/media/Icon-Moira.webp": "/memory-card/static/media/Icon-Moira.098080e4df803b86fa61.webp",
+    "static/media/Icon-D.Va.webp": "/memory-card/static/media/Icon-D.Va.f3d844ecc4728119bfba.webp",
+    "static/media/Icon-Genji.webp": "/memory-card/static/media/Icon-Genji.7214908b66150b6e89a7.webp",
+    "static/media/Icon-Ashe.webp": "/memory-card/static/media/Icon-Ashe.96c264b2f21482454850.webp",
+    "static/media/Icon-Brigitte.webp": "/memory-card/static/media/Icon-Brigitte.714171ba33827b08880c.webp",
+    "static/media/Icon-Soldier_76.webp": "/memory-card/static/media/Icon-Soldier_76.f9139390fc807c2c2c9a.webp",
+    "static/media/Icon-Ana.webp": "/memory-card/static/media/Icon-Ana.c1276fa8e043dc7f36f1.webp",
+    "static/media/Icon-Bastion.webp": "/memory-card/static/media/Icon-Bastion.e0339b68b7fa0394c76a.webp",
+    "static/media/Icon-Doomfist.webp": "/memory-card/static/media/Icon-Doomfist.45b7dc0f6492ba38a90c.webp",
+    "static/media/Icon-Reaper.webp": "/memory-card/static/media/Icon-Reaper.028efdc78c212977c3ba.webp",
+    "index.html": "/memory-card/index.html",
+    "main.212c9163.css.map": "/memory-card/static/css/main.212c9163.css.map",
+    "main.661c406c.js.map": "/memory-card/static/js/main.661c406c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.212c9163.css",
+    "static/js/main.661c406c.js"
+  ]
+}
